@@ -32,5 +32,13 @@ To check the current members, see the members list [here](https://github.com/org
 
 ---
 
+# 👨‍🎓 Alumni
+
+## 2025
+
+- **Henrique Cavaco**, MSc Thesis: [*Learning to Broadcast: Automated Generation of Echo Broadcast Protocols using Reinforcement Learning*](https://fenix.tecnico.ulisboa.pt/cursos/meic-a/dissertacao/565303595504018)
+
+---
+
 Interested in any topic or with an idea that merges the fields of Distributed Computing, Cybersecurity, and Artificial Intelligence? Send an email to **diogo.vaz@tecnico.ulisboa.pt**
 
