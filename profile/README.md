@@ -20,7 +20,7 @@
 ---
 # 📄 Publications
 
-Check this [ResearchGate](https://www.researchgate.net/profile/Diogo_Vaz7/research) page to access the publications.
+Check [this](https://www.researchgate.net/profile/Diogo_Vaz7/research) page to access the publications.
 
 ---
 
@@ -36,7 +36,7 @@ To check the current members, see the members list [here](https://github.com/org
 
 ## 2025
 
-- **Henrique Cavaco**, MSc Thesis: [*Learning to Broadcast: Automated Generation of Echo Broadcast Protocols using Reinforcement Learning*](https://fenix.tecnico.ulisboa.pt/cursos/meic-a/dissertacao/565303595504018)
+- **Henrique Cavaco**, *MSc Thesis*: [Learning to Broadcast: Automated Generation of Echo Broadcast Protocols using Reinforcement Learning](https://fenix.tecnico.ulisboa.pt/cursos/meic-a/dissertacao/565303595504018)
 
 ---
 
