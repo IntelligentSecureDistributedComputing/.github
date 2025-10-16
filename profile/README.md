@@ -1,5 +1,5 @@
 
-# 💡 Team
+# 💡 Purpose
 
 *Artificial Intelligence (AI) is revolutionizing the world, from its applications in the advance of science to its use in our daily routines. Therefore, the question about the application of AI to the distributed and secure computing fields is no longer a question of "if", but a question of "when". Our research is trying to bring that "when" to the present.*
 
