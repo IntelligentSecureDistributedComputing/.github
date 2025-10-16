@@ -30,7 +30,7 @@ Check [this](https://www.researchgate.net/profile/Diogo_Vaz7/research) page to a
 
 - **Luana Ferraz**, *MSc Thesis*: TBD
 - **Henrique Toscanelli**, *MSc Thesis*: [DisTcoverAI: Discovery of new Distributed Algorithms with Artificial Intelligence](https://fenix.tecnico.ulisboa.pt/cursos/meic-a/dissertacao/1128253548924182)
-- **Diogo Vaz**, *PhD Thesis*: [Solving Distributed Problems' Systems Problems with Artificial Intelligence](https://www.researchgate.net/publication/377499635_Solving_Distributed_Systems'_Problems_using_Generative_AI)
+- **Diogo Vaz**, *PhD Thesis*: [Solving Distributed Systems' Problems with Artificial Intelligence](https://www.researchgate.net/publication/377499635_Solving_Distributed_Systems'_Problems_using_Generative_AI)
 
 ## Former members
 
