@@ -42,7 +42,7 @@ Check [this](https://www.researchgate.net/profile/Diogo_Vaz7/research) page to a
 
 # 💲 Funding
 
-Our project has been funded by [RNCA through Advanced Computing Projects](https://rnca.fccn.pt/projetos/) and [Google Research Credits](https://edu.google.com/programs/credits/research/?modal_active=none) 
+Our group has been funded by [RNCA through Advanced Computing Projects](https://rnca.fccn.pt/projetos/) and [Google Research Credits](https://edu.google.com/programs/credits/research/?modal_active=none) 
 
 ---
 
