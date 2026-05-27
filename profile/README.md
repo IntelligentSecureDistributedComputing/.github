@@ -28,7 +28,7 @@ Check [this](https://www.researchgate.net/profile/Diogo_Vaz7/research) page to a
 
 ## Current members
 
-- **Luana Ferraz**, *MSc Thesis*: TBD
+- **Luana Ferraz**, *MSc Thesis*: Smart Models, Safer Protocols? Benchmarking LMs for Distributed Algorithm Verification
 - **Diogo Vaz**, *PhD Thesis*: [Solving Distributed Systems' Problems with Artificial Intelligence](https://www.researchgate.net/publication/377499635_Solving_Distributed_Systems'_Problems_using_Generative_AI)
 
 ## Former members
